@@ -1,0 +1,1 @@
+# automatic-qemu-settings-scripts
